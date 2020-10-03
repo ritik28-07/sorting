@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//ritik's contibution
 int main()
 {
 	int n;
