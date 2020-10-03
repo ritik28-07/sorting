@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//this code is made by kritika
 int main()
 {
 	int n;
